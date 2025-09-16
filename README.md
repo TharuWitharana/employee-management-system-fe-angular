@@ -1,4 +1,5 @@
 # EmployeeMngSysFe
+<img width="1469" height="904" alt="image" src="https://github.com/user-attachments/assets/52c46fff-f0fe-4def-82ef-78d37cb427df" />
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
 
